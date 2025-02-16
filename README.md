@@ -32,5 +32,5 @@ This repository contains:
 To use this project, clone the repository and install any necessary dependencies.
 
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+python -m unittest test_a2_parta.py
+python -m unittest test_a2_partb.py
